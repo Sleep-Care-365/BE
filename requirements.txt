@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+python-dotenv
+python-multipart
+tensorflow-cpu
+mne
+numpy
+pandas
+scikit-learn
+openai
